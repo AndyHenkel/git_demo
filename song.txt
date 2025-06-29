@@ -6,3 +6,4 @@ retiremant - пенсионер
 forecast - прогноз
 commodity - товар
 influence - влияние
+that hence prices - что обуславливает цены 
