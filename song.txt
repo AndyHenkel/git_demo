@@ -3,3 +3,6 @@ vary - варьировать
 бороться с одиночеством
 alongside - рядом 
 retiremant - пенсионер
+forecast - прогноз
+commodity - товар
+influence - влияние
